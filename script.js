@@ -170,4 +170,3 @@ document.addEventListener("DOMContentLoaded", function () {
     // Start the chatbot
     startChat();
 });
-
